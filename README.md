@@ -2,6 +2,8 @@
 
 **Backend Engineering × AI-assisted Product Development**
 
+[Portfolio Website — 職務経歴・制作実績](https://hoheto116.github.io/)
+
 Javaを中心としたサーバーサイド開発を主軸とするソフトウェアエンジニアです。
 
 実務で培ったバックエンド・インフラ・チーム開発の知識を土台に、個人開発ではReact・TypeScriptによるフロントエンド開発やAIコーディングツールの活用に取り組み、技術領域を広げています。
