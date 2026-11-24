@@ -29,7 +29,7 @@ LINEとWebを連携させた家計管理・月次精算システム。家庭内�
 
 **Tech Stack:** React / TypeScript / Hono / Cloudflare Workers / D1 / R2 / LINE API
 
-[Portfolio](https://github.com/hoheto116/household-finance-portfolio)（現在は非公開・閲覧権限が必要）
+[Portfolio](https://github.com/hoheto116/household-finance-portfolio)（公開中）
 
 ### Life Canvas
 
